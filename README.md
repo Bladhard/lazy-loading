@@ -13,7 +13,7 @@
 <script src="js/lazyload.js"></script>
 ```
 ```javascript
-// или min версию
+// min версию
 <script src="js/lazyload.min.js"></script>
 ```
 ```javascript
