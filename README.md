@@ -11,6 +11,7 @@
 ```javascript
 // обычную версию
 <script src="js/lazyload.js"></script>
+
 // или min версию
 <script src="js/lazyload.min.js"></script>
 
