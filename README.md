@@ -9,12 +9,15 @@
 
 ## Скачиваем и подключаем
 ```javascript
- // обычную версию
+// обычную версию
 <script src="js/lazyload.js"></script>
- // или min версию
+```
+```javascript
+// или min версию
 <script src="js/lazyload.min.js"></script>
-
- // в основном файле вызываем
+```
+```javascript
+// в основном файле вызываем
 LazyLoad()
 ```
 
