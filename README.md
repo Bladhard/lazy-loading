@@ -11,10 +11,10 @@
 ```javascript
 // обычную версию
 <script src="js/lazyload.js"></script>
-
+```javascript
 // или min версию
 <script src="js/lazyload.min.js"></script>
-
+```javascript
 // в основном файле вызываем
 LazyLoad()
 ```
