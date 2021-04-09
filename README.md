@@ -1,8 +1,8 @@
 # LazyLoading
 
 > Откладывает загрузку изображений на длинных веб-страницах. Изображения за пределами области экрана не будут загружены до того, пока пользователь не доскролит до них.
-> Нет никаких зависимостей, только чистый JavaScript.
-> Размер min версии 1кб
+> Нет никаких зависимостей, только чистый JavaScript./n
+> Размер min версии 1кб/n
 > Создан на основе [API Intersection Observer](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 
 [![License](https://img.shields.io/github/license/bladhard/lazy-loading.svg?style=flat-square)](https://github.com/Bladhard/lazy-loading/blob/main/LICENSE)
