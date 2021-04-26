@@ -48,7 +48,9 @@ function LazyLoad(options = false) {
                                 img.src = img.dataset.src
                                 img.removeAttribute('data-src')
                             } catch (TypeError) {
-                                entry.target.src = entry.target.dataset.src
+                                if (entry.target.dataset.src) {
+                                    entry.target.src = entry.target.dataset.src
+                                }
                                 entry.target.removeAttribute('data-src')
                             }
                         }
